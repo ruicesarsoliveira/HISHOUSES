@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Pontuação Escolar - H.I.S Houses",
+  "description": "Uma plataforma integrada para gestão de pontos de casas escolares (H.I.S Houses), incluindo registro de professores, transparência de auditoria e painel de progresso em tempo real.",
+  "requestFramePermissions": []
+}
